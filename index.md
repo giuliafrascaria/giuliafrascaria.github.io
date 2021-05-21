@@ -1,5 +1,7 @@
 ## Hello World!
 
+| [Home](./index.md) | [Publications](publications.md) |
+
 ## /whoami
 
 Welcome to my tech hub, it's Giulia :) Italian in Amsterdam. Currently working on a PhD in storage for edge computing under the supervision of Animesh Trivedi and Lin Wang.

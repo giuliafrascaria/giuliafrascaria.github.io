@@ -1,10 +1,8 @@
-## Hello World!
-
 ## /whoami
 
 Welcome to my tech hub, it's Giulia :) Italian in Amsterdam. Currently working on a PhD in storage for edge computing under the supervision of Animesh Trivedi and Lin Wang.
 
-I work with the [atLarge](https://atlarge-research.com/) research group and we like to play with distributed systems. My current research focus is on storage for edge computing, and broadly speaking my research interests are in all things low-level, hardware accelerators, operating systems and kernel programming, high performance storage and networking. 
+I work with the [atLarge](https://atlarge-research.com/) research group and we like to play with all things [distributed] systems. My current research focus is on storage for edge computing, and broadly speaking my research interests are in all things low-level, hardware accelerators, operating systems and kernel programming, high performance storage and networking. 
 
 For some more detail you can have a look at my [CV](./CVgitub.pdf) (updated may 2021)
 

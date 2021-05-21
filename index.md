@@ -1,6 +1,6 @@
 ## Hello World!
 
-| [Home](./index.md) | [Publications](publications.md) |
+\t\t | [Home](./index.md) | [Publications](publications.md) |
 
 ## /whoami
 

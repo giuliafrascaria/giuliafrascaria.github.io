@@ -4,7 +4,7 @@ Welcome to my tech hub, it's Giulia :) Italian in Amsterdam. Currently working o
 
 I work with the [atLarge](https://atlarge-research.com/) research group and we like to play with all things [distributed] systems. My current research focus is on storage for edge computing, and broadly speaking my research interests are in all things low-level, hardware accelerators, operating systems and kernel programming, high performance storage and networking. 
 
-For some more detail you can have a look at my [CV](./CVgitub.pdf) (updated may 2021)
+For some more detail you can have a look at my [CV](./CVgithub.pdf) (updated may 2021)
 
 ## /history
 Some highlights from my job/studies
